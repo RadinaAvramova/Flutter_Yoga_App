@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_yoga/Screens/rUready.dart';
 import 'package:flutter_yoga/model/model.dart';
 import 'package:flutter_yoga/services/yogadb.dart';
-//Video No 21 Excercise - Solve The Database Inserting Problem Using Shared Preference
+
 class Startup extends StatefulWidget {
   String Yogakey;
   YogaSummary yogaSum;
